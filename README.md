@@ -1,2 +1,2 @@
-# aemtech
-My project on AEM6.5
+# Sample AEM project
+My sample project on AEM 6.5
